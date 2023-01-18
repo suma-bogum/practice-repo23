@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 2E60-BE9C
+
+ Directory of C:\Users\sumab\OneDrive\Desktop\my project
+
+01/17/2023  09:57 PM    <DIR>          .
+01/17/2023  09:43 PM    <DIR>          ..
+01/17/2023  09:57 PM                 0 text1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  53,691,052,032 bytes free
